@@ -25,19 +25,22 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [It's a guessing game where you have to guess a random number. ] Describe the game's purpose.
+- [The new game button wasnt working, display was wrong, hints were wrong. ] Detail which bugs you found.
+- [ Edited the code with ai to create multiple fixes] Explain what fixes you applied.
 
 ## 📸 Demo Walkthrough
 
 Describe your fixed game in numbered steps so a reader can follow along without watching a video:
 
-1. <!-- Describe this step -->
-2. <!-- Describe this step -->
-3. <!-- Describe this step -->
-4. <!-- Describe this step -->
-5. <!-- Add more steps as needed -->
+1. The user selects hard difficulty
+2. The program selects the numver 43 hidden to the user
+3. The user enters 42
+4. The hints say it's too low of a guess.
+5. The user guesses 44
+6. The hint say it's too high of a guess.
+7. The user guesses 43
+8. The programs displays the win
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
